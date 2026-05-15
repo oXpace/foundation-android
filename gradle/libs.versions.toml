@@ -1,7 +1,7 @@
 [versions]
 # Build Tools & Core
 androidGradlePlugin = "9.2.1"
-kotlin = "2.3.20"
+kotlin = "2.3.21"
 ksp = "2.3.6"
 
 # AndroidX
@@ -34,7 +34,7 @@ datastore = "1.2.1"
 coil = "3.4.0"
 
 # Async & Logging
-kotlinxCoroutines = "1.10.2"
+kotlinxCoroutines = "1.11.0"
 timber = "5.0.1"
 
 # Testing
